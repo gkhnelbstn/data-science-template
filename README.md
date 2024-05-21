@@ -1,2 +1,1 @@
-# interviewq-solutions
-Python solutions for InterviewQ challenges. 
+#cookiecutter data-science-template
