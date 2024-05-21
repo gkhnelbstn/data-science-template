@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Data Science Repository Template documentation build configuration file, created by
+# data-science-template documentation build configuration file, created by
 # sphinx-quickstart.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -41,7 +41,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Data Science Repository Template'
+project = u'data-science-template'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -185,7 +185,7 @@ latex_elements = {
 latex_documents = [
     ('index',
      'data-science-template.tex',
-     u'Data Science Repository Template Documentation',
+     u'data-science-template Documentation',
      u"Gökhan Elbistan", 'manual'),
 ]
 
@@ -215,7 +215,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'data-science-template', u'Data Science Repository Template Documentation',
+    ('index', 'data-science-template', u'data-science-template Documentation',
      [u"Gökhan Elbistan"], 1)
 ]
 
@@ -229,9 +229,9 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    ('index', 'data-science-template', u'Data Science Repository Template Documentation',
-     u"Gökhan Elbistan", 'Data Science Repository Template',
-     'Repository Template for Data Science repositories.', 'Miscellaneous'),
+    ('index', 'data-science-template', u'data-science-template Documentation',
+     u"Gökhan Elbistan", 'data-science-template',
+     'Data Science Repository Template', 'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.

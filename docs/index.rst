@@ -1,9 +1,9 @@
-.. Data Science Repository Template documentation master file, created by
+.. data-science-template documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Data Science Repository Template documentation!
+data-science-template documentation!
 ==============================================
 
 Contents:
